@@ -8,6 +8,6 @@
 <title>Register</title>
 </head>
 <body>
-<%=UserDAO.size()%>
+등록개수:<%=UserDAO.size()%>
 </body>
 </html>
