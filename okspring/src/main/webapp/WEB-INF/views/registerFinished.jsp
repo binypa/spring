@@ -9,5 +9,6 @@
 </head>
 <body>
 등록개수:<%=UserDAO.size()%>
+집에서 수정
 </body>
 </html>
